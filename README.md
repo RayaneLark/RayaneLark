@@ -53,9 +53,6 @@ Hi! I’m a MIAGE student at **[Université Paris-Saclay](https://www.universite
 	<a href="https://www.linkedin.com/in/rayane-larkem/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<span>&nbsp;</span><a href="https://discordapp.com/709124882532663338">
-		<img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-	</a>
 </p>
 
 <br>
