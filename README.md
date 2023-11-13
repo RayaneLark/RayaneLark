@@ -6,7 +6,6 @@
 
 <h1 
 align="center">Hi 👋, I'm Rayane
-<img src="https://komarev.com/ghpvc/?username=RayaneLark&style=flat-square&color=blue" alt=""/>
 </h1>
 
 <div align="center">
